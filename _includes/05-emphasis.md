@@ -1,15 +1,15 @@
 Languages and Technologies:
-<details>
-  <summary>Familiar with:</summary>
+<ul>
+  <li>Familiar with:</li>
   <ul>
     <li>Java</li>
     <li>Python3</li>
     <li>Git</li>
     <li>GitHub</li>
   </ul>
-</details>
-<details>
-  <summary>Have worked with:</summary>
+</ul>
+<ul>
+  <li>Have worked with:</li>
   <ul>
     <li>JavaScript</li>
     <li>Kotlin</li>
@@ -23,11 +23,11 @@ Languages and Technologies:
     <li>PostgreSQL</li>
     <li>Oracle DB</li>
   </ul>
-</details>
-<details>
-  <summary>Learning:</summary>
-<ul>
-  <li>Rust</li>
-  <li>Julia</li>
 </ul>
-</details>
+<ul>
+  <li>Learning:</li>
+  <ul>
+    <li>Rust</li>
+    <li>Julia</li>
+  </ul>
+</ul>
